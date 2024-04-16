@@ -1,7 +1,5 @@
 # Gemini Clone with ReactJS & Gemini 1.0 Pro API
 
-![![0ybo-Gn8err-U-HD.jpg](https://i.postimg.cc/HsTRHVyD/0ybo-Gn8err-U-HD.jpg)](https://postimg.cc/grBNHcsN)
-
 ## Overview
 
 This project is a Gemini clone developed using ReactJS and integrated with the Gemini 1.0 Pro API. It aims to replicate the functionality of the Gemini cryptocurrency exchange platform, providing users with a seamless trading experience.
