@@ -1,6 +1,6 @@
 # Gemini Clone with ReactJS & Gemini 1.0 Pro API
 
-![Gemini Clone Preview](https://drive.google.com/file/d/1Wq_6GHlIbojesOYjtE8VbWZ-J-cHyDfn/view?usp=sharing)
+![Gemini Clone Preview](https://postimg.cc/grBNHcsN)
 
 ## Overview
 
